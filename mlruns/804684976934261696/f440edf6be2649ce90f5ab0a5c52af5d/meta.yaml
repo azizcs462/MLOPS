@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/804684976934261696/f440edf6be2649ce90f5ab0a5c52af5d/artifacts
+deleted_time: 1748918715894
+end_time: 1748917724192
+entry_point_name: ''
+experiment_id: '804684976934261696'
+lifecycle_stage: deleted
+run_id: f440edf6be2649ce90f5ab0a5c52af5d
+run_name: shivering-bass-662
+run_uuid: f440edf6be2649ce90f5ab0a5c52af5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748917724174
+status: 4
+tags: []
+user_id: tarique

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/804684976934261696/1ba73ac340bc4bc19a70fed6cd9daf37/artifacts
+deleted_time: 1748918722701
+end_time: 1748917692005
+entry_point_name: ''
+experiment_id: '804684976934261696'
+lifecycle_stage: deleted
+run_id: 1ba73ac340bc4bc19a70fed6cd9daf37
+run_name: languid-kite-36
+run_uuid: 1ba73ac340bc4bc19a70fed6cd9daf37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748917691993
+status: 4
+tags: []
+user_id: tarique

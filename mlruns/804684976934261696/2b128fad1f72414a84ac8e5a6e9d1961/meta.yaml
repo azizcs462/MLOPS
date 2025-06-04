@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/804684976934261696/2b128fad1f72414a84ac8e5a6e9d1961/artifacts
+deleted_time: 1748919026492
+end_time: 1748917749519
+entry_point_name: ''
+experiment_id: '804684976934261696'
+lifecycle_stage: deleted
+run_id: 2b128fad1f72414a84ac8e5a6e9d1961
+run_name: capable-lark-606
+run_uuid: 2b128fad1f72414a84ac8e5a6e9d1961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748917747312
+status: 3
+tags: []
+user_id: tarique

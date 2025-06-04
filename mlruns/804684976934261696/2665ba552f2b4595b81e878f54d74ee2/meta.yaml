@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/804684976934261696/2665ba552f2b4595b81e878f54d74ee2/artifacts
+deleted_time: 1748919026491
+end_time: 1748917900295
+entry_point_name: ''
+experiment_id: '804684976934261696'
+lifecycle_stage: deleted
+run_id: 2665ba552f2b4595b81e878f54d74ee2
+run_name: casual-sponge-786
+run_uuid: 2665ba552f2b4595b81e878f54d74ee2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748917898581
+status: 3
+tags: []
+user_id: tarique
