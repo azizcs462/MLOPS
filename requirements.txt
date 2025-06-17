@@ -2,4 +2,5 @@ mlflow
 pandas 
 numpy 
 flask
+scikit-learn
 

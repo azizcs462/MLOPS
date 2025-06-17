@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/804684976934261696/fd72ce173eba472e88eb6c590a94c609/artifacts
+deleted_time: 1749010394288
 end_time: 1748919018983
 entry_point_name: ''
 experiment_id: '804684976934261696'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: fd72ce173eba472e88eb6c590a94c609
 run_name: resilient-boar-919
 run_uuid: fd72ce173eba472e88eb6c590a94c609

@@ -1,6 +1,7 @@
 artifact_location: mlflow-artifacts:/804684976934261696
 creation_time: 1748917691915
 experiment_id: '804684976934261696'
-last_update_time: 1748917691915
-lifecycle_stage: active
+last_update_time: 1749516196774
+lifecycle_stage: deleted
 name: Tracking First Model
+tags: {}

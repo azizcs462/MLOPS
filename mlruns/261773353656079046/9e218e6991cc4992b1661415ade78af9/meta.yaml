@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/261773353656079046/9e218e6991cc4992b1661415ade78af9/artifacts
+deleted_time: 1750140201767
+end_time: 1749516270212
+entry_point_name: ''
+experiment_id: '261773353656079046'
+lifecycle_stage: deleted
+run_id: 9e218e6991cc4992b1661415ade78af9
+run_name: wise-slug-876
+run_uuid: 9e218e6991cc4992b1661415ade78af9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749516267905
+status: 3
+tags: []
+user_id: tarique

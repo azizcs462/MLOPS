@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/804684976934261696/d0596433d9c2495db9d80f708af2935f/artifacts
+deleted_time: 1749516196774
+end_time: 1749010356192
+entry_point_name: ''
+experiment_id: '804684976934261696'
+lifecycle_stage: deleted
+run_id: d0596433d9c2495db9d80f708af2935f
+run_name: big-frog-76
+run_uuid: d0596433d9c2495db9d80f708af2935f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749010354351
+status: 3
+tags: []
+user_id: tarique

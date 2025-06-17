@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/261773353656079046/04d09d9e23f84a3d8d6efeca7a19aca0/artifacts
+end_time: 1750140182184
+entry_point_name: ''
+experiment_id: '261773353656079046'
+lifecycle_stage: active
+run_id: 04d09d9e23f84a3d8d6efeca7a19aca0
+run_name: honorable-jay-412
+run_uuid: 04d09d9e23f84a3d8d6efeca7a19aca0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750140180768
+status: 3
+tags: []
+user_id: tarique

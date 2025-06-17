@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/479ed3d1f9904c6781f269d18a0043d6/artifacts
+deleted_time: 1749516188044
+end_time: 1749010291916
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 479ed3d1f9904c6781f269d18a0043d6
+run_name: adaptable-fox-182
+run_uuid: 479ed3d1f9904c6781f269d18a0043d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749010289653
+status: 3
+tags: []
+user_id: tarique

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/804684976934261696/cd8fbe3d1d3c4985b6256f0271c013a1/artifacts
+deleted_time: 1749516196774
+end_time: 1749010357656
+entry_point_name: ''
+experiment_id: '804684976934261696'
+lifecycle_stage: deleted
+run_id: cd8fbe3d1d3c4985b6256f0271c013a1
+run_name: dazzling-moose-319
+run_uuid: cd8fbe3d1d3c4985b6256f0271c013a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749010356213
+status: 3
+tags: []
+user_id: tarique
